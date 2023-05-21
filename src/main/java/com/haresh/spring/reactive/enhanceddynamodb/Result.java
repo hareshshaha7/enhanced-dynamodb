@@ -1,4 +1,4 @@
-package com.haresh.spring.reactive.enhanceddynamodb.enum;
+package com.haresh.spring.reactive.enhanceddynamodb;
 
 public enum Result {
     SUCCESS, FAIL;
